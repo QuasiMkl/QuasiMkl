@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @QuasiMkl
 - 👀 I’m interested in Minecraft Module Dev
-- 🌱 I’m currently learning Java、Ts
+- 🌱 I’m currently learning Java/Ts/Js/HTML/CSS
 - 📫 Gmail: admin@mckimsetlab.net
